@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed-Faizzzz
 - 👀 I’m interested in coding for fun, and exploring new areas of coding for the time being.
-- 🌱 I’m currently learning React.js, Ruby on Rails, MySQL, Python
+- 🌱 I’m familiar with Java, Python, React, Node.js, and PostgreSQL
 - 📫 How to reach me: drop me an email at my personal email faiz2001@gmail.com
 
 <!---
